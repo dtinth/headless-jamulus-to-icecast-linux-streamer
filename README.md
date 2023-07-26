@@ -1,4 +1,8 @@
 # headless-jamulus-to-icecast-linux-streamer
+
+> **Warning**
+> This project is no longer maintained. If you intend to let people listen in to a Jamulus server from a website, consider using [jamulus-lounge](https://github.com/dtinth/jamulus-lounge) instead.
+
 Simple script to stream sound from Jamulus to an Icecast server. Also shows listener count in Jamulus.
 
 ![](example.webp)
